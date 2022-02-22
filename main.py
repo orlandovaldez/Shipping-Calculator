@@ -1,5 +1,5 @@
 
-weight = 0.0
+weight = float(input("What is the weight of your package: "))
 cost = 0.0
 flat_charge = 0.0
 #Ground Shipping
